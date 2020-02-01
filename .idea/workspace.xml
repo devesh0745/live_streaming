@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34458f8a-608a-4ff6-b01f-fa47ffb4cef1" name="Default Changelist" comment="" />
+    <list default="true" id="34458f8a-608a-4ff6-b01f-fa47ffb4cef1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,9 +30,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\sdeve\AppData\Local\Programs\Python\Python37-32\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
@@ -62,13 +64,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="511" y="45" key="#app" timestamp="1580475513146">
+    <state x="511" y="45" key="#app" timestamp="1580537913007">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="511" y="45" key="#app/0.0.1536.824@0.0.1536.824" timestamp="1580475513146" />
-    <state x="465" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1580470586755">
+    <state x="511" y="45" key="#app/0.0.1536.824@0.0.1536.824" timestamp="1580537913007" />
+    <state width="1364" height="192" key="GridCell.Tab.0.bottom" timestamp="1580537942325">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580470586755" />
+    <state width="1364" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580537942325" />
+    <state width="1364" height="192" key="GridCell.Tab.0.center" timestamp="1580537942325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="192" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580537942325" />
+    <state width="1364" height="192" key="GridCell.Tab.0.left" timestamp="1580537942323">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="192" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580537942323" />
+    <state width="1364" height="192" key="GridCell.Tab.0.right" timestamp="1580537942325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="192" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580537942325" />
+    <state x="465" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1580537879615">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580537879615" />
   </component>
 </project>
